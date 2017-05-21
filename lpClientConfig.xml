@@ -1,0 +1,18 @@
+<LaunchPadClientConfig>
+   <LPCheckSum Value="1626141355"/>
+   <ServerList>
+      <Server>sdlaunchpad1.station.sony.com:9700</Server>
+      <Server>sdlaunchpad2.station.sony.com:9700</Server>
+      <Server>sdlaunchpad1.station.sony.com:9700</Server>
+      <Server>sdlaunchpad2.station.sony.com:9700</Server>
+      <ChatServer>sdlaunchpad1.station.sony.com:3018</ChatServer>
+      <ChatServer>sdlaunchpad1.station.sony.com:3019</ChatServer>
+      <ChatServer>sdlaunchpad2.station.sony.com:3018</ChatServer>
+      <ChatServer>sdlaunchpad2.station.sony.com:3019</ChatServer>
+   </ServerList>
+   <TestServerList>
+      <Server>sdlogin-test.station.sony.com:3016</Server>
+      <Server>sdlogin-test.station.sony.com:3017</Server>
+      <ChatServer>sdlogin-test.station.sony.com:3018</ChatServer>
+   </TestServerList>
+</LaunchPadClientConfig>
